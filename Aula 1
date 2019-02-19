@@ -1,0 +1,6 @@
+algoritmo "primeiro"
+var
+inicio
+escreval ("ola, mundo!")
+Escreva ("Me livrei da maldição!")
+fimalgoritmo
